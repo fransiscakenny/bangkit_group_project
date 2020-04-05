@@ -15,6 +15,8 @@ Our project is about create Machine Learning model to classify finding on lung b
 into 9 types of finding (atelectasis, consolidation, effusion, infiltration, mass, nodule, pleural thickening, pneumothorax, no finding).
 ________
 
+Final Model Jupyter Notebook: ct_scan_project_model_FINAL.ipynb
+
 Dataset : https://drive.google.com/open?id=1kutfopQvKpMLGW6iJmTYe60LVNzuuuhC
 
 The dataset for this project was obtained from : https://www.kaggle.com/nih-chest-xrays/sample
