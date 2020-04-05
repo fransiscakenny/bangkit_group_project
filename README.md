@@ -11,4 +11,8 @@ Indra Wijaya - indra.wijaya2303@gmail.com - indrawijaya23
 
 ________
 
-Our project is about -> ___________
+Our project is about create Machine Learning model to classify finding on lung based on someone's Chest X-ray Image 
+into 9 types of finding (atelectasis, consolidation, effusion, infiltration, mass, nodule, pleural thickening, pneumothorax, no finding).
+
+The dataset for this project was obtained from https://www.kaggle.com/nih-chest-xrays/sample
+
